@@ -1,9 +1,0 @@
-com.natwest.opendata
-com.natwest.opendata.common
-com.natwest.opendata.configuration
-com.natwest.opendata.enums
-com.natwest.opendata.exception
-com.natwest.opendata.model.atm
-com.natwest.opendata.model.branches
-com.natwest.opendata.service
-com.natwest.opendata.util
